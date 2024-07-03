@@ -143,7 +143,7 @@ History Items[$e]=file:///media/brianhuster
 ColorSchemeHash=2ef8a9f7238e072ca91b0eb590f49ded650c76bd
 
 [KDE]
-LookAndFeelPackage=org.kde.breeze.desktop
+LookAndFeelPackage=org.kubuntu.desktop
 
 [KFileDialog Settings]
 Allow Expansion=false
