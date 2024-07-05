@@ -6,31 +6,6 @@ wheel:Vertical;NoModifier=org.kde.switchdesktop
 [ActionPlugins][1]
 RightButton;NoModifier=org.kde.contextmenu
 
-[Containments][236]
-ItemGeometries-1920x1080=
-ItemGeometriesHorizontal=
-activityId=f2565150-469c-41ac-a57b-8593442c74d9
-formfactor=0
-immutability=1
-lastScreen=0
-location=0
-plugin=org.kde.plasma.folder
-wallpaperplugin=org.kde.image
-
-[Containments][236][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
-
-[Containments][236][General]
-ToolBoxButtonState=topcenter
-ToolBoxButtonX=444
-ToolBoxButtonY=27
-
-[Containments][236][Wallpaper][org.kde.image][General]
-Image=/home/brianhuster/.local/share/wallpapers/Sunset-Ocean-wave-plate-from-volcanic-rock-waterfall-effect-Vinh-Hy-bay-Ninh-Thuan-Vietnam-HD-Wallpaper-for-mobile-phones-and-computer-3840x2400-1920x1080.jpg
-PreviewImage=/home/brianhuster/.local/share/wallpapers/Sunset-Ocean-wave-plate-from-volcanic-rock-waterfall-effect-Vinh-Hy-bay-Ninh-Thuan-Vietnam-HD-Wallpaper-for-mobile-phones-and-computer-3840x2400-1920x1080.jpg
-SlidePaths=/home/brianhuster/.local/share/wallpapers/,/usr/share/plasma/wallpapers/,/usr/share/wallpapers/
-
 [Containments][243]
 activityId=
 formfactor=2
@@ -570,7 +545,7 @@ immutability=1
 plugin=org.kde.plasma.icon
 
 [Containments][360][Applets][370][Configuration]
-localPath=/home/brianhuster/.local/share/plasma_icons/org.kde.konsole (1).desktop
+localPath=/home/brianhuster/.local/share/plasma_icons/org.kde.konsole.desktop
 url=file:///usr/share/applications/org.kde.konsole.desktop
 
 [Containments][360][Applets][371]
@@ -604,5 +579,24 @@ DialogWidth=1920
 [Containments][360][General]
 AppletOrder=370;371;372;373;368;369;367
 
+[Containments][374]
+ItemGeometries-1920x1080=
+ItemGeometriesHorizontal=
+activityId=0ff518ea-0a5c-4f8f-af53-35ba6ee841fc
+formfactor=0
+immutability=1
+lastScreen=0
+location=0
+plugin=org.kde.plasma.folder
+wallpaperplugin=org.kde.image
+
+[Containments][374][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][374][Wallpaper][org.kde.image][General]
+Image=file:///home/brianhuster/.local/share/wallpapers/Sunset-Ocean-wave-plate-from-volcanic-rock-waterfall-effect-Vinh-Hy-bay-Ninh-Thuan-Vietnam-HD-Wallpaper-for-mobile-phones-and-computer-3840x2400-1920x1080.jpg
+
 [ScreenMapping]
 itemsOnDisabledScreens=
+screenMapping=
